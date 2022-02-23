@@ -4,7 +4,7 @@ O intuito deste teste é analisar a capacidade de responder ao desafio abaixo co
 
 Quando finalizar o teste, publique tudo no seu [Github](https://github.com/) (_Instruções no final do teste_).
 
-> **ATENÇÃO**: Os bônus não são obrigatórios, priorize os requisitos básicos. Entretanto os mesmos nos ajudam a avaliar a qualidade de sua entrega com relação aos demais candidatos.
+> Para facilitar você pode fazer um fork desse repositório, assim você utiliza as imagens (fundo e logo) da pasta assets. :)
 
 
 ### O que nós gostaríamos :thumbsup:
@@ -15,6 +15,8 @@ Quando finalizar o teste, publique tudo no seu [Github](https://github.com/) (_I
 ### O que nós não gostaríamos :thumbsdown:
 - Descobrir que não foi você quem fez seu teste.
 - Ver commits gigantes, sem mensagens ou com `-m` sem pé nem cabeça.
+
+> **ATENÇÃO**: Os bônus não são obrigatórios, priorize os requisitos básicos. Entretanto os mesmos nos ajudam a avaliar a qualidade de sua entrega com relação aos demais candidatos.
 
 # Missão
 
@@ -55,10 +57,10 @@ personalizada através do componente Feedback
 
 Abaixo uma sugestão de layout:
 
-![Tela de Listagem](https://via.placeholder.com/728x100.png?text=Tela+de+login "Tela de Login")
+![Tela de Login](https://github.com/Spot-b/teste-dev-frontend/raw/main/assets/exemplo-login.png)
 
 ### Bônus
-* Seguir o layout (estrutura) sugerido. :star:
+* Seguir o layout (estrutura) sugerido. :star: (As imagens de fundo e logo estão na pasta assets desse repositório)
 * **Divir os componenentes da tela (inputs, botões, etc) em componentes individuais**. :star: :star: :star:
 
 ## Seleção de Perfil
@@ -78,10 +80,10 @@ O Select deve possibilitar filtrar as opções por meio de busca de caracteres.
 
 Abaixo uma sugestão de layout:
 
-![Tela de Listagem](https://via.placeholder.com/728x100.png?text=Tela+de+login "Tela de seleção de perfil")
+![Tela de seleção de perfil](https://github.com/Spot-b/teste-dev-frontend/raw/main/assets/exemplo-perfil.png)
 
 ### Bônus
-* Seguir o layout (estrutura) sugerido. :star: 
+* Seguir o layout (estrutura) sugerido. :star: (As imagens de fundo e logo estão na pasta assets desse repositório)
 * **Divir os componenentes da tela em componentes individuais**. :star: :star: :star:
 
 ## Finalização
