@@ -90,11 +90,11 @@ Quando finalizar o teste:
 1. Grave um vídeo apresentando a plataforma, as principais características
 da aplicação e principalmente mostrando o código e como ele foi desenvolvido pensando em resolver os problemas apresentados aqui no teste.  O aplicativo loom pode ser utilizado como opção
 para gravação e compartilhamento https://www.loom.com
-2. Envie um e-mail com o título `[Teste Dev Front End] Dúvidas` para [alexandre.ubaldo@eduxe.com.br](mailto:alexandre.ubaldo@eduxe.com.br) com o endereço para seu repositório com o projeto finalizado e o link para o vídeo.
+2. Envie um e-mail com o título `[Teste Dev Front End] Dúvidas` para [alexandre.resende@bernoulli.com.br](mailto:alexandre.resende@bernoulli.com.br) com o endereço para seu repositório com o projeto finalizado e o link para o vídeo.
 
 ## Dúvidas
 
-Em caso de dúvidas envie um e-mail com o título `[Teste Dev] Dúvidas` para [alexandre.ubaldo@eduxe.com.br](mailto:alexandre.ubaldo@eduxe.com.br).
+Em caso de dúvidas envie um e-mail com o título `[Teste Dev] Dúvidas` para [alexandre.resende@bernoulli.com.br](mailto:alexandre.resende@bernoulli.com.br).
 
 ## Disclaimer (Considerações legais)
 
